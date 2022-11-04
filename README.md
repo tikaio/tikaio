@@ -1,6 +1,7 @@
 ## Oi, Eu sou Kaio! 👋
 
-- 🌱 Estudando C 
+- 🌱 Estudando JS
+
 
 <div align="center">
   <a href="https://github.com/tikaio">
