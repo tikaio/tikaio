@@ -1,7 +1,5 @@
-## Oi, Eu sou Kaio! 👋
-
-- 🌱 Estudando JS
-
+## Oi, Meu Nome é Kaio! 
+## Seja Bem-Vindo(a) ao Meu GitHub!
 
 <div align="center">
   <a href="https://github.com/tikaio">
